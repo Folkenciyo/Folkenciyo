@@ -31,7 +31,7 @@
 <a href="https://discord.gg/Folkenciyo#8526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Folkenciyo#8526" height="30" width="40" /></a>
 </p>
 
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=folkencillo&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/folkencillo?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folkencillo&layout=compact&hide_border=true&theme=jolly)](https://github.com/folkencillo?tab=repositories) |
+| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Folkenciyo&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Folkenciyo?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Folkenciyo&layout=compact&hide_border=true&theme=jolly)](https://github.com/Folkenciyo?tab=repositories) |
 |:-:|:-:|
 
 <h3 align="left">Languages and Tools:</h3>
