@@ -8,9 +8,9 @@
 
 - 🤖 I´ve studied in a Bootcamp [4GeeksAcademy](https://4geeksacademy.com/es/inicio)
 
-- 🌱 I’m currently learning **C# as a hobby**
+- 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **Any interesting proyect**
+- 👯 I’m looking to collaborate whit **A competent company**
 
 - 🤝 I’m looking for help **If you can help me to improve any area don´t hesitate to contact me and teach me more 😛**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **All you need please!**
 
-- 📫 How to reach me **folkencillo@gmail.com**
+- 📫 How to reach me **juanguerreropardo87@gmail.com**
 
 - ⚡ Fun fact **I really like Games and Art, for that reason I love drawing, painting and 3D modeling also**
 
