@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folkenciyo&label=Profile%20views&color=0e75b6&style=flat" alt="folkenciyo" /> </p>
 
-- 🔭 I’m currently studing in a Bootcamp [4GeeksAcademy](https://4geeksacademy.com/es/inicio)
+- 🔭 I’m currently studing in the course [42Málaga](https://candidatura.42malaga.com/users/sign_in)
+
+- 🤖 I´ve studied in a Bootcamp [4GeeksAcademy](https://4geeksacademy.com/es/inicio)
 
 - 🌱 I’m currently learning **C# as a hobby**
 
