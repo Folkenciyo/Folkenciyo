@@ -20,8 +20,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Folkenciyo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@JuanAGuerreroP1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 🐦 Telefonica 42 Progress
+[![juguerre's 42 stats](https://badge.mediaplus.ma/starryblue/juguerre?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
