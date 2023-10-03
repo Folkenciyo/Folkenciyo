@@ -21,7 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Folkenciyo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Telefonica 42 Progress
-[![juguerre's 42 stats](https://badge.mediaplus.ma/starryblue/juguerre?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![juguerre's 42 stats](https://badge.mediaplus.ma/colorfulwaves/juguerre?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
