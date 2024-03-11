@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
-<p style="display:flex; flex-direction=row; align-items:center; justify-items:center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80CFF7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan!;Software+%26%26+Full+Stack+Developer+;42+M%C3%A1laga+Studient;Wellcome+to+my+Github" alt="Typing SVG" /></a><img src="yo.jpeg" alt="yo" border="0" width="20%" height="20%"></p>
+<p style="display:flex; flex-direction: row; align-items:center; justify-items:center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80CFF7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan!;Software+%26%26+Full+Stack+Developer+;42+M%C3%A1laga+Studient;Wellcome+to+my+Github" alt="Typing SVG" />
+  <img src="yo.jpeg" alt="yo" border="0" width="10%" height="10%"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folkenciyo&label=Profile%20views&color=1A1B27&style=plastic" alt="folkenciyo"/> </p>
 
